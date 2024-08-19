@@ -1,3 +1,3 @@
-#Clicker App in Kotlin
-##Overview
+# Clicker App in Kotlin
+## Overview
 Simple app using Android Studio and Kotlin for practice
